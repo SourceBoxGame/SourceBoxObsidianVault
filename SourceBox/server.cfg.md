@@ -1,0 +1,1 @@
+Gets executed when a [[dedicated server]] starts

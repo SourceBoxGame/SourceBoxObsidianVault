@@ -1,0 +1,1 @@
+Has all the bindings and gets executed on startup

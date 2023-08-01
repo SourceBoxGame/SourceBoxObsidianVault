@@ -1,0 +1,6 @@
+[[server.cfg]]
+[[config.cfg]]
+[[valve.rc]]
+[[joystick.cfg]]
+[[autoexec.cfg]]
+[[chapter.cfg]]

@@ -1,0 +1,8 @@
+[[Map]]
+[[Entities]]
+[[Assets]]
+[[Scripts]]
+[[Resource]]
+[[Gameinfo]]
+[[Configs]]
+[[VGUI]]

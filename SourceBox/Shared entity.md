@@ -1,0 +1,1 @@
+Has a [[DataTable]] and will share variables defined in the table

@@ -1,0 +1,1 @@
+Gets run by [[valve.rc]] and runs at the start of the game

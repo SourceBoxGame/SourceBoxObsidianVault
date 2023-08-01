@@ -1,0 +1,1 @@
+Runs on game startup and runs [[autoexec.cfg]]
