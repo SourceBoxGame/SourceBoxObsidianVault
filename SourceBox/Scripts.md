@@ -1,5 +1,5 @@
 [[game_sounds]]
-[[weapon_]]
+[[weapon_.txt]]
 [[titles.txt]]
 [[vgui_screens.txt]]
 [[propdata.txt]]

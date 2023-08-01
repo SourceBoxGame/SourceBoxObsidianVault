@@ -1,0 +1,4 @@
+#KeyValues 
+
+* WeaponData [[main key]]
+  * 
